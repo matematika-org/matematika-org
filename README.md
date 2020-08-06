@@ -7,4 +7,8 @@
 ### <a href="//matematika.net">Matematika.net (ENG)</a>
 
 For english discussions:  
-Группа в телеграм: https://t.me/matematika_org
+Группа в телеграм: https://t.me/matematika_eng
+
+---
+
+Marley
