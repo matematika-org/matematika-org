@@ -11,7 +11,7 @@ For english discussions:
 
 ====
 
-Сейчас изучаю материал по BlockChain - <a href="//matematika.org/blockchain/hyperledger/fabric/">[Rajeev Sakhuja] Mastering Hyperledger Chaincode Development using GoLang [ENG, 2019, Latest updates 16/06/2020]</a>.
+Сейчас изучаю материал по BlockChain - <a href="//matematika.org/videos/blockchain/hyperledger/en/fabric/mastering-hperledger-chaincode-development-using-golang/">[Rajeev Sakhuja] Mastering Hyperledger Chaincode Development using GoLang [ENG, 2019, Latest updates 16/06/2020]</a>.
 Ничего не понятно! Кому интересно или есть что обсудить, тоже смотрите. Если можете порекомендовать что-то лучше. Жду рекомендаций.
 
 ---
